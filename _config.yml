@@ -3,19 +3,15 @@
 name: zen habits
 
 description:
-
   # Description of your site. This will show up in google.
   meta:
-
   # Description of your site. This will show up on the front page.
   subtitle:
 
 author:
   name:
-
   # Necessary for contact page
   email:
-
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
@@ -24,7 +20,7 @@ url: http://zen-habits.github.io
 baseurl: ""
 
 # language attribute in <html> element.
-lang: en
+lang: de
 
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
@@ -71,40 +67,8 @@ date_format: "%-d %B %Y"
 # vertical to horizontal.
 nav-breaking-point: 520px
 
-# Number of posts on each page.
-# paginate: 1
-
 # Display links for the previous and next post on post pages.
 display-next-prev-post: false
-
-# Leave empty if you don't want comments on post pages.
-disqus-shortname:
-
-
-################
-# SOCIAL ICONS #
-################
-
-# Use a complete url here, including http:// and such. Requiring just usernames
-# has been considered, but this is way more customizable.
-twitter:
-youtube:
-instagram:
-tumblr:
-facebook:
-google-plus:
-reddit:
-soundcloud:
-medium:
-linkedin:
-github:
-behance:
-codepen:
-dribbble:
-trello:
-stack-overflow:
-bitcoin:
-paypal:
 
 
 #####################
@@ -136,7 +100,6 @@ var_your_message: Your message
 exclude: [vendor]
 kramdown:
   input: GFM
-# paginate_path: "/page-:num/"
 permalink: "/:title"
 defaults:
   -
