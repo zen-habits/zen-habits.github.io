@@ -134,7 +134,6 @@ var_your_message: Your message
 # You don't have to change these.
 
 exclude: [vendor]
-highlighter: pygments
 kramdown:
   input: GFM
 # paginate_path: "/page-:num/"
@@ -146,4 +145,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      excerpt_separator: "<!--more-->"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      permalink: "/:path/:basename"
