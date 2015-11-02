@@ -36,11 +36,9 @@ p, form {
   margin: 30px auto;
   word-wrap: break-word;
 }
-p * {
-  line-height: 1em; /* Bold font line-height fix */
-}
 strong {
   font-weight: 700;
+  line-height: 1.0em;
 }
 i, em {
   font-style: italic;
@@ -78,9 +76,6 @@ ol {
 li {
   margin: 20px 0;
   line-height: 1.4;
-}
-li * {
-  line-height: 1em; /* Bold font line-height fix */
 }
 img {
   max-width: 100%;
