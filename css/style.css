@@ -235,12 +235,12 @@ hr {
   padding: 0 15px;
   max-width: 700px;
   min-height: 100%;
-  margin-bottom: -141px;
+  margin-bottom: -101px;
 }
 .wrap::after {
   content: "";
   display: block;
-  height: 141px;
+  height: 101px;
 }
 header {
   padding-top: 20px;
@@ -326,10 +326,10 @@ input[type="submit"] {
 footer {
   font-size: 0.8em;
   color: rgba({{ site.text-color }},0.5);
-  text-align: center;
+  /* text-align: center; */
   background-color: rgba({{ site.text-color }}, 0.05);
   border-top: 1px solid rgba({{ site.text-color }}, 0.1);
-  height: 140px;
+  height: 100px;
 }
 footer a {
   background-image: none;
@@ -338,8 +338,8 @@ footer a {
 }
 footer .inner {
   margin: 0 auto;
-  padding: 0 15px;
-  max-width: 740px;
+  padding: 30px 15px;
+  max-width: 700px;
 }
 
 
@@ -357,7 +357,7 @@ footer .inner {
 }
 nav a {
   display: block;
-  padding: 5px;
+  padding: 5px 5px 5px 0px;
   text-align: center;
   background-image: none;
   text-decoration: none !important;
@@ -399,7 +399,7 @@ nav a.current {
     padding: 0 30px;
   }
   footer .inner {
-    padding: 0 30px;
+    padding: 30px 30px;
   }
   .subtitle,
   .fluid-width-video-wrapper,
@@ -457,14 +457,14 @@ nav a.current {
     text-align: left;
   }
   nav {
-    position: absolute;
+    /* position: absolute; */
     top: 20px;
     right: 0;
     margin: 0;
   }
   nav a {
     display: inline-block;
-    padding: 5px 8px;
+    padding: 5px 8px 5px 0px;
   }
   .website-title {
     margin-bottom: 80px;
