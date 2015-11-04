@@ -14,20 +14,14 @@ home: true
 
   <article>
     <span class="meta">
-      {% if site.display-author-front-page %}
-        {% if post.author.name %}
-          {{ post.author.name }} •
-        {% else %}
-          {% if site.author.name %}
-            {{ site.author.name }} •
-          {% endif %}
-        {% endif %}
-      {% endif %}
-      {{ post.date | date: site.date_format }} • {{ read-time }}
+      {{ post.author }} • {{ post.date | date: site.date_format }} • {{ read-time }}
 	</span>
   	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
     <p>
 	  {{ post.content }}
     </p>
-
+	<small class="author-snippet">
+		{{ site.var_original_by }} {{ post.author }}: <a href="{{ post.original-url }}">{{ post.original-title }}</a></br>
+		{{ site.var_translation_by }} {{ site.author.name }}
+	</small>
   </article>

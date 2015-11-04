@@ -9,7 +9,7 @@ description:
   subtitle:
 
 author:
-  name:
+  name: Valentin Umbach
   # Necessary for contact page
   email:
   # Optional text (html) to display after author name. Leave empty if you don't
@@ -61,7 +61,7 @@ display-author-post-page: true
 display-author-front-page: true
 
 # http://alanwsmith.com/jekyll-liquid-date-formatting-examples
-date_format: "%-d %B %Y"
+date_format: "%-d %b %Y"
 
 # Minimal screen-width after which the navigation will change position from
 # vertical to horizontal.
@@ -84,11 +84,13 @@ var_older: Older
 var_next_post: Next post
 var_previous_post: Previous post
 var_less_than_a_minute_read: Less than a minute read
-var_min_read: Minuten zu lesen # Text after reading time. Example: 5 min read.
+var_min_read: Min zu lesen # Text after reading time. Example: 5 min read.
 var_post_by: Post by
 var_guest_post_by: Guest post by
 var_your_email: Your email
 var_your_message: Your message
+var_original_by: Original von
+var_translation_by: Übersetzung von
 
 
 ##################

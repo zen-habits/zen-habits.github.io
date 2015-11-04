@@ -205,6 +205,11 @@ small a {
   background-image: -ms-linear-gradient(rgba({{ site.text-color }},.5),rgba({{ site.text-color }},.5));
   background-image: linear-gradient(rgba({{ site.text-color }},.5),rgba({{ site.text-color }},.5));
 }
+.author-snippet {
+  margin-top: 30px;
+  display: inline-block;
+  line-height: 1.6;	
+}
 hr {
   border:none;
   background-color: rgba({{ site.theme-color }}, .4);
@@ -476,7 +481,7 @@ nav a.current {
   }
   article:last-of-type::after {
     content: "";
-    margin-top: 120px;
+    margin-top: 60px;
     margin-bottom: 0;
   }
 }
