@@ -240,12 +240,12 @@ hr {
   padding: 0 15px;
   max-width: 700px;
   min-height: 100%;
-  margin-bottom: -101px;
+  margin-bottom: -121px;
 }
 .wrap::after {
   content: "";
   display: block;
-  height: 101px;
+  height: 121px;
 }
 header {
   padding-top: 20px;
@@ -334,7 +334,7 @@ footer {
   /* text-align: center; */
   background-color: rgba({{ site.text-color }}, 0.05);
   border-top: 1px solid rgba({{ site.text-color }}, 0.1);
-  height: 100px;
+  height: 120px;
 }
 footer a {
   background-image: none;
@@ -345,6 +345,14 @@ footer .inner {
   margin: 0 auto;
   padding: 15px 0px 0px 0px;
   max-width: 700px;
+}
+#opensource {
+  text-align: center;
+}
+#opensource img {
+  display: inline-block;
+  padding: 0 10px;
+  vertical-align: middle;
 }
 
 
