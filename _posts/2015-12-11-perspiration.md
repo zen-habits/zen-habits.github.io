@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Leo Babauta
 "original-title": Inspiration + Aspiration
 "original-url": "http://zenhabits.net/perspiration/"
