@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Leo Babauta
 "original-title": Constantly Worried About How Others Perceive Us
 "original-url": "http://zenhabits.net/opinions/"
