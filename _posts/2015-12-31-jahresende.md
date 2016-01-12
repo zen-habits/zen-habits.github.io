@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Leo Babauta
 "original-title": "The Practice of Year-End Reflection"
 "original-url": "http://zenhabits.net/yearend/"
