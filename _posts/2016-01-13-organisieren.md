@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Leo Babauta
 "original-title": "Rules for Getting Organized & Decluttered"
 "original-url": "http://zenhabits.net/declutter-rules/"
