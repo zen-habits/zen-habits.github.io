@@ -41,3 +41,8 @@ Das sind natürlich nur Vorschläge für Regeln ... du solltest sie anpassen, da
 
 ## Wie du die Regeln umsetzt
 
+So, das sind jetzt eine ganze Menge Regeln, aber ich denke nicht dass du sie alle auf einmal umsetzen solltest. Stattdessen empfehle ich dir eine pro Woche zu versuchen. Fokussiere dich wirklich die ganze Woche darauf diese eine Regel umzusetzen. Wenn das gut klappt, dann behalte sie bei, ansonsten wirf sie raus. Nächste Woche versuchst du dann eine andere.
+
+Mach dir jede Woche eine Erinnerung an einem bestimmten Tag (z.B. Montag) um zu schauen wie es mit der Regel geklappt hat und um eine neue Regel auszuwählen, die du ausprobieren willst. Mach dir eine physische Papiernotiz irgendwo wo du sie gut sehen kannst um dich über die Woche hinweg an die Regel zu erinnern.
+
+Stück für Stück wirst du die Regeln finden, die für dich funktionieren. Und Schritt für Schritt wird dein Leben weniger Gerümpel haben und besser organisiert sein. Und du wirst bereit sein um im Rest deines Lebens großartige Dinge zu vollbringen.
