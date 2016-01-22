@@ -28,3 +28,10 @@ Diese Tipps zielen nicht darauf ab dich zum Experten zu machen, sie sollen dir h
 
 6. **Komm zurück wenn du abschweifst.** Deine Gedanken werden abschweifen, mit beinahe absoluter Sicherheit. Und das ist auch kein Problem. Wenn du bemerkst dass deine Gedanken abschweifen, dann lächle und wende dich einfach sanft wieder deinem Atem zu. Zähle wieder "eins" und beginne von vorne. Das fühlt sich vielleicht ein bisschen frustrierend an, aber es ist vollkommen in Ordnung wenn du nicht fokussiert bleibst, das geht uns allen so. Das ist die Übung, und du wirst am Anfang nicht gut darin sein.
 
+7. **Entwickle eine liebevolle innere Einstellung.** Wenn du merkst wie Gedanken oder Gefühle hochkommen während du meditierst, was auf jeden Fall passieren wird, dann betrachte sie mit einer freundlichen Einstellung. Sieh sie als deine Freunde, nicht als Eindringlinge oder Feinde. Sie sind ein Teil von dir, auch wenn sie nicht alles sind. Sei freundlich, nicht streng.
+
+8. **Mach dir nicht so viele Sorgen, dass du es falsch machst.** Du wirst dir Sorgen machen, dass du es falsch machst. Das ist okay, dass machen wir alle. Aber du machst es nicht falsch. Es gibt keine perfekte Art es zu tun, sei einfach glücklich dass du es tust.
+
+9. **Mach dir keine Sorgen deinen Geist zu leeren.** Viele Leute denken, bei Meditation geht es darum deinen Geist zu leeren, oder alle Gedanken zu stoppen. Darum geht es nicht. Das kann vielleicht manchmal passieren, aber es ist nicht das "Ziel" von Meditation. Wenn du Gedanken hast ist das völlig normal. Das haben wir alle. Unsere Gehirne sind Gedankfabriken und wir können sie nicht einfach herunter fahren. Stattdessen versuchst du deine Aufmerksamkeit zu fokussieren und ein bisschen mehr zu üben wenn deine Gedanken abschweifen.
+
+10. **
