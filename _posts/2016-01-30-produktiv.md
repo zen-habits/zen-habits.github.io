@@ -37,7 +37,7 @@ Du wirst bemerken dass sich das Unbequeme in Wahrheit gar nicht so schlimm anfü
 
 Probier dieses Pausentraining selbst aus. Es wird nicht funktionieren, nur darüber zu lesnen, du musst selbst damit arbeiten. Lerne es kennen, werde vertraut damit.
 
-##Unkonventionelle Produktivität
+## Unkonventionelle Produktivität
 
 Wenn du beginnst mit deinem Unbehagen zu arbeiten, dann wirst du sehen, dass es Keine Große Sache ist. Nichts, worüber du dir Sorgen machen brauchst. Es ist nur ein Gefühl, eine Energie. Du kannst dich dabei ein bisschen entspannen. Versuche eine freundliche Einstellung dazu zu entwickeln anstatt so streng mit selbst zu sein. Nimm es nur war, lächle einfach, atme, sei behutsam.
 
