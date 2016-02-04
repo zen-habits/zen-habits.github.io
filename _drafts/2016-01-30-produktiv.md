@@ -43,4 +43,11 @@ Wenn du beginnst mit deinem Unbehagen zu arbeiten, dann wirst du sehen, dass es 
 
 Wie kannst du diese Keine Große Sache in Produktivität verwandeln? Hier ist ein System das du ausprobieren kannst:
 
-1. Setz dir 
+1. Setz deine 3 wichtigsten Aufgaben (MITs = Most Important Tasks) jeden Morgen fest, als erste Sache wenn du anfängst zu arbeiten. Schreib noch ein paar weitere Dinge auf, die du tun "solltest", aber fokussiere dich zuerst auf die MITs.
+2. Wähle eine der MITs und räume den Platz dafür frei. Bevor du deine E-Mails checkst.
+3. Mach etwas Pausentraining. Bemerke wenn du vor der Aufgabe davon laufen willst, halte inne, erkunde behutsam das körperliche Empfinden von Unbehagen, freundlich und neugierig.
+4. Bestimme eine Herzensabsicht. Wenn du dich in das Unbehagen entspannst und erkennst, dass es keine große Sache ist, dann bestimme eine Absicht für die Aufgabe - machst du es um dein Leben zu verbessern, um jemand anders etwas gutes zu tun, um der Welt zu helfen? Finde das Herz in deiner Absicht - sie kommt letzen Endes aus Liebe. Sage zu dir selbst: "Es ist meine Absicht diese Aufgabe zu tun aus Liebe für ..." (fülle die Lücke mit: dir selbst, jemand anderem, der Welt, etc.).
+5. Arbeite mit Liebe. Öffne dein Herz und mache die Aufgabe mit der Liebe, die aus deiner Absicht kommt. Bemerke wenn du dich unbequem fühlst und etwas anderes machen willst, entspanne dich, mach das Pausentraining wenn nötig, und dann beginne erneut.
+6. Mach Pausen. Alle 10-15 Minuten solltest du aufstehen und umher laufen. Dehnen. Wasser trinken. Überprüfen wie es dir geht. Dann kehre zur Aufgabe zurück und wähle eine andere MIT.
+
+Du wirst nicht perfekt sein dabei, also erwarte auch keine Perfektion. Arbeite einfach damit, behutsam, und du wirst besser und besser mit Übung.
