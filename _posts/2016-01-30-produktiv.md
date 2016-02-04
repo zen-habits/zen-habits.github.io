@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Leo Babauta
 "original-title": Unconventional Productivity
 "original-url": "http://zenhabits.net/productive/"
