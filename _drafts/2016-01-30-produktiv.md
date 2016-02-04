@@ -18,3 +18,9 @@ Diese Dinge sind alle in Wahrheit das selbe Problem: wenn du wichtige aber schwi
 
 Ich habe jeden Tag damit zu tun, und ich bekomme es auch nicht immer hin. Aber was wäre wenn wir dieses Problem durchsteigen und herausfinden, was eigentlich los ist? Wir wären die Meister des Universums.
 
+## Pausentraining
+
+In Wahrheit stehen wir diesem Problem - dass wir vor unbequemen Dingen davon laufen - die ganze Zeit gegenüber, wir sehen es bloß normalerweise nicht. Deshalb ist Meditation so ein großartiger Übungsplatz für unseren Geist - die sitzt da und hast nichts zu tun als zu beobachten wie dein Geist vor dem Unbequemen dieses Moments davon läuft. Wieder und wieder. Und mit der Zeit lernst du damit zu arbeiten.
+
+Deshalb schlage ich vor du nutzt deine wichtigen Aufgaben als Meditationstraining, damit du lernst mit dem Unbequemen zu arbeiten wenn es hoch kommt.
+
