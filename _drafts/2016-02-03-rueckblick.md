@@ -10,3 +10,15 @@ Ich habe über den [Jahresrückblick](http://zen-habits.github.io/jahresende) ge
 
 Auftritt für den Monatsrückblick.
 
+Ich habe tatsächlich gerade erst damit angefangen, nachdem ich gemerkt habe, dass mein Jahresrückblick viel aufwändiger war als es sein müsste. Wenn ich jeden Monat einen schnellen Tagebucheintrag mache, in dem ich auf den vergangenen Monat zurück blicke, dann macht es alles viel einfacher. Die Dinge sind noch frisch in meinem Gedächtnis. Es dauert nicht so lang.
+
+Also habe ich mir eine Erinnerung für jeden Monatsanfang gemacht um meinen Monatsrückblick zu machen. Dann nehme ich mir an diesem Tag 10 Minuten um auf den letzten Monat zurück zu blicken:
+
+- Arbeit die ich gemacht habe
+- Projekte die ich voran gebracht habe
+- Persönliches Lernen an dem ich gearbeitet habe
+- Gesundheits- und Fitnessherausforderungen die ich gemeistert habe
+- Andere große Lebensereignisse (manche davon unerwartet)
+- Dinge dich ich gelernt habe und an die ich mich erinnern will
+- Hoffnungen für den nächsten Monat
+
