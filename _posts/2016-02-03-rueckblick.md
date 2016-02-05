@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Leo Babauta
 "original-title": The Monthly Review
 "original-url": "http://zenhabits.net/review/"
