@@ -22,3 +22,8 @@ Also habe ich mir eine Erinnerung für jeden Monatsanfang gemacht um meinen Mona
 - Dinge dich ich gelernt habe und an die ich mich erinnern will
 - Hoffnungen für den nächsten Monat
 
+Ich gehe durch meinen Kalender, Notizen und To-do Listen und solche Sachen, und das dauert gar nicht lang. Ich empfehle es sehr!
+
+Dieser Rückblick gibt mir das Gefühl, dass ich in nur einem Monat etwas geschafft habe, und er gibt mir einen Blick auf das Große Ganze in meinem Leben, was ich vielleicht nicht oft genug habe. Ich kann meinen Kurs korrigieren, mich neu fokussieren, oder einfach gut fühlen mit dem was ich tue. Und ich mag es wenn die Dinge die ich gelernt habe sich nicht mehr so flüchtig anfühlen, weil dieser Rückblick mir hilft die Dinge ein bisschen festzuhalten.
+
+Am Ende des Jahres muss ich einfach nur noch diese Monatsrückblicke nehmen und der Jahresrückblick sollte ein Klacks sein.
